@@ -22,7 +22,7 @@ const Fundraising = () => {
         <i className='lmtwo'>Social Enterprises</i><br/>
         <i className='lmthree'>Donate for social or environmental objectives</i><br/><br/>
         <i className='lmtwo'>Crowdfunding as a Service</i><br/>
-        <i className='lmthree'>Donating money to projects and businesses.</i><br/><br/>
+        <i className='lmthree'>onating money to projects and businesses.</i><br/><br/>
         </center>
     </div>
   )
